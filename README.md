@@ -7,5 +7,5 @@ This article demonstrates just how pervasive software is in our world. As cars b
 
 I find it interesting how all sorts of companies, not just tech companies, need to establish a strong software development presence within the company.
 
-### brian105's comments on the article
+## What [brian105](https://github.com/brian105) Found Interesting
 I think that the application of Gen AI within the automotive world brings together the best of both AI and regular software engineering. The addition of a program which effectively can improve upon itself is a great help to the technological repertoire of a car, given that automotive softwares tend to take far longer to develop and require extensive testing. It can not only be implemented within the Software Engineering phase, but can also be used to (for example) detect malfunctions of the vehicle, aid in self-driving, and more. 
